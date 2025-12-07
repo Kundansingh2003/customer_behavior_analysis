@@ -49,6 +49,8 @@ This project is perfect for:
 
 * **Key Insights**: Summarize the major findings from the data, such as trends, correlations, and predictions.
 * **Visualizations**: Share screenshots or descriptions of the key visualizations used in the Power BI dashboard and report.
+<img width="1133" height="653" alt="my" src="https://github.com/user-attachments/assets/f4ea79e4-ebb3-4085-a71d-b061e267b3a7" />
+
 
 ## How to Run
 
